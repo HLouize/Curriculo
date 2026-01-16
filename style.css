@@ -78,3 +78,17 @@
             margin-top: 40px;
             color: #7f8c8d;
         }
+        .project-link {
+    display: inline-block;
+    margin-top: 8px;
+    text-decoration: none;
+    color: #15385d;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.project-link:hover {
+    text-decoration: underline;
+    color: #880c0c;
+
+}
